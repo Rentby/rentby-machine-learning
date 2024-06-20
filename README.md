@@ -1,6 +1,6 @@
 # RentBy Machine Learning
-<img src="https://github.com/TemanSawit/![alt text](Logo-Kuning-RentBy.png)<br /><br />
-Repository for Bangkit 2023 Capstone project. <br />
+![logo rentby kuning](Logo-Kuning-RentBy.png)<br /><br />
+Repository for Bangkit 2024 Capstone project. <br />
 
 ## What's RentBy?
 RentBy is a mobile application, offers a solution to Indonesia's high stress rates, which often hinder engagement in hobbies due to financial constraints, particularly in activities like hiking and cosplaying. By integrating machine learning and collaborative consumption principles, RentBy revolutionizes access to specialized items, such as hiking gear and cosplay costumes. This innovation eliminates financial barriers to hobby participation by enabling users to rent these items from peers. 
